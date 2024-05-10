@@ -1,2 +1,0 @@
-# divyanshu.portfolio
-my portfolio
